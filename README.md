@@ -5,14 +5,13 @@ Soy Tecnólogo en Desarrollo de Software con pasión por crear soluciones tecnol
 ## 🚀 Tecnologías que domino
 
 - **Frontend:**
-- ![Tecnología](https://img.shields.io/badge/Angular-%23DD0031?logo=angular&logoColor=white)  ![Tecnología](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white) ![Tecnología](https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white) ![Tecnología](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black) ![Tecnología](https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white) ![Tecnología](https://img.shields.io/badge/SASS-%23C76494?logo=sass&logoColor=white) ![Tecnología](https://img.shields.io/badge/Bootstrap-%23563D7C?logo=bootstrap&logoColor=white) ![Tecnología](https://img.shields.io/badge/Material_UI-%230081CB?logo=material-ui&logoColor=white)
+- ![Tecnología](https://img.shields.io/badge/Angular-%23DD0031?logo=angular&logoColor=white)  ![Tecnología](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white) ![Tecnología](https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white) ![Tecnología](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black) ![Tecnología](https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white)
 
 - **Backend:**
   - ![Tecnología](https://img.shields.io/badge/Spring-%236DB33F?logo=spring&logoColor=white)
 
 - **Bases de datos:**
-  - ![Tecnología](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white) 
-  - ![Tecnología](https://img.shields.io/badge/MongoDB-%2303A24A?logo=mongodb&logoColor=white) 
+  - ![Tecnología](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white) ![Tecnología](https://img.shields.io/badge/MongoDB-%2303A24A?logo=mongodb&logoColor=white) 
 
 - **Herramientas y Tecnologías:**
   - ![Tecnología](https://img.shields.io/badge/Git-%23F1502F?logo=git&logoColor=white) 
