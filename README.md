@@ -65,7 +65,7 @@ Soy **Tecnólogo en Desarrollo de Software** con una fuerte pasión por construi
 ---
 
 ### 🛠️ Desarrollo de Aplicacion con Electron: TallerTrack 
-**Descripción:** Desarrollo de una plataforma web para la gestión de un taller mecánico.
+**Descripción:** Desarrollo de una plataforma para la gestión de un taller mecánico.
 <p align="left">
   <img src="https://img.shields.io/badge/electron-%23007ACC?logo=electron&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-%236DB33F?logo=spring&logoColor=white"/>
@@ -75,7 +75,6 @@ Soy **Tecnólogo en Desarrollo de Software** con una fuerte pasión por construi
 **Características:**
 - Gestión de clientes, vehículos, órdenes de servicio.
 - Seguimiento de reparaciones.
-- Servicios REST y persistencia robusta.
 
 ---
 
@@ -90,7 +89,7 @@ Soy **Tecnólogo en Desarrollo de Software** con una fuerte pasión por construi
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lenin-correa-b496b5272/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/x-jirox" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011?logo=github&logoColor=white"/>
