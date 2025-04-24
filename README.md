@@ -62,7 +62,7 @@ Soy **Tecnólogo en Desarrollo de Software** con una fuerte pasión por construi
   **Características:**
   - Enfoque en rendimiento y simplicidad para mostrar catálogos sin backend.
 
----
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ### 🛠️ Desarrollo de Aplicacion con Electron: TallerTrack 
 **Descripción:** Desarrollo de una plataforma para la gestión de un taller mecánico.
