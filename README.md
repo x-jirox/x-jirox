@@ -19,7 +19,7 @@ Soy Tecnólogo en Desarrollo de Software con pasión por crear soluciones tecnol
   - ![Tecnología](https://img.shields.io/badge/Docker-%2300A5D8?logo=docker&logoColor=white) 
   - ![Tecnología](https://img.shields.io/badge/Firebase-%23FFCB2B?logo=firebase&logoColor=white) 
   - ![Tecnología](https://img.shields.io/badge/Node.js-%2343853D?logo=node.js&logoColor=white) 
-  - ![Tecnología](https://img.shields.io/badge/postman-%2343853D?logo=postman&logoColor=white)
+  - ![Tecnología](https://img.shields.io/badge/postman-%23F1502F?logo=postman&logoColor=white)
     
 - **Metodologías de trabajo:**
   - ![Tecnología](https://img.shields.io/badge/GitFlow-%233F5F9A?logo=git&logoColor=white)
